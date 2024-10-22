@@ -19,7 +19,7 @@ const Page3 = (props) => {
         />
         <img
           alt="image"
-          src="/external/vectori542-i5z5.svg"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image101"
         />
         <img
@@ -79,7 +79,7 @@ const Page3 = (props) => {
         />
         <img
           alt="image"
-          src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/38b57f6f-9f3e-4611-b049-8fdd89573c1b/44d5aba5-d75d-46b5-8e4b-fd59f6091a0b?org_if_sml=1543&amp;force_format=original"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image113"
         />
         <img
@@ -94,12 +94,12 @@ const Page3 = (props) => {
         />
         <img
           alt="image"
-          src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/38b57f6f-9f3e-4611-b049-8fdd89573c1b/da53c31c-e2e4-4f9f-b7d9-de1bd105e4ab?org_if_sml=1545&amp;force_format=original"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image116"
         />
         <img
           alt="image"
-          src="/external/chevronright1151-d7ji.svg"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image117"
         />
         <img
@@ -114,7 +114,7 @@ const Page3 = (props) => {
         />
         <img
           alt="image"
-          src="/external/chevrondown7418-0l3m.svg"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image120"
         />
         <img
@@ -134,7 +134,7 @@ const Page3 = (props) => {
         />
         <img
           alt="image"
-          src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/38b57f6f-9f3e-4611-b049-8fdd89573c1b/f6a5fdfc-f6e2-48aa-b2e2-ee04e09f2938?org_if_sml=11385379&amp;force_format=original"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image124"
         />
         <img
@@ -159,15 +159,19 @@ const Page3 = (props) => {
         />
         <img
           alt="image"
-          src="/external/li-in-bug-200h-200h-200h.png"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image129"
         />
         <img
           alt="image"
-          src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/38b57f6f-9f3e-4611-b049-8fdd89573c1b/8c3ed58b-4548-4d6a-9fab-62381cf5b976?org_if_sml=1484&amp;force_format=original"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image130"
         />
-        <img alt="image" src="/external/jlr.svg" className="page3-image131" />
+        <img
+          alt="image"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
+          className="page3-image131"
+        />
         <img
           alt="image"
           src="https://play.teleporthq.io/static/svg/default-img.svg"
@@ -183,7 +187,11 @@ const Page3 = (props) => {
           src="https://play.teleporthq.io/static/svg/default-img.svg"
           className="page3-image134"
         />
-        <img alt="image" src="/external/nba.svg" className="page3-image135" />
+        <img
+          alt="image"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
+          className="page3-image135"
+        />
         <img
           alt="image"
           src="https://play.teleporthq.io/static/svg/default-img.svg"
@@ -191,7 +199,7 @@ const Page3 = (props) => {
         />
         <img
           alt="image"
-          src="/external/memory%20usage.svg"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image137"
         />
         <img
@@ -221,7 +229,7 @@ const Page3 = (props) => {
         />
         <img
           alt="image"
-          src="/external/penetration-testing.svg"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image143"
         />
         <img
@@ -261,7 +269,7 @@ const Page3 = (props) => {
         />
         <img
           alt="image"
-          src="/external/ps-logo-dark.svg"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image151"
         />
         <img
@@ -271,17 +279,17 @@ const Page3 = (props) => {
         />
         <img
           alt="image"
-          src="/external/youtube.svg"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image153"
         />
         <img
           alt="image"
-          src="/external/proxy-interception-1400w-200w-200w.png"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image154"
         />
         <img
           alt="image"
-          src="/external/linkedin.svg"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image155"
         />
         <img
@@ -296,42 +304,42 @@ const Page3 = (props) => {
         />
         <img
           alt="image"
-          src="/external/professional%20app1.svg"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image158"
         />
         <img
           alt="image"
-          src="/external/magnifying%20glass.svg"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image159"
         />
         <img
           alt="image"
-          src="/external/rocket.svg"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image160"
         />
         <img
           alt="image"
-          src="/external/pretty-print-1400w-200w-200w.png"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image161"
         />
         <img
           alt="image"
-          src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/38b57f6f-9f3e-4611-b049-8fdd89573c1b/06b3df46-b24c-48d3-8455-7a5d4b464528?org_if_sml=13003&amp;force_format=original"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image162"
         />
         <img
           alt="image"
-          src="/external/nickc-200h-200h-200h.png"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image163"
         />
         <img
           alt="image"
-          src="/external/portswigger-dark-logo1.svg"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image164"
         />
         <img
           alt="image"
-          src="/external/radar%20artwork%20(3).svg"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image165"
         />
         <img
@@ -341,7 +349,7 @@ const Page3 = (props) => {
         />
         <img
           alt="image"
-          src="/external/icon-check-white.svg"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image167"
         />
         <img
@@ -356,17 +364,17 @@ const Page3 = (props) => {
         />
         <img
           alt="image"
-          src="/external/g2-spring-leader-23-200w-200w-200w.png"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image170"
         />
         <img
           alt="image"
-          src="/external/g2-spring-leader-23-200h-200w-200w.png"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image171"
         />
         <img
           alt="image"
-          src="/external/full-integration.svg"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image172"
         />
         <img
@@ -396,7 +404,7 @@ const Page3 = (props) => {
         />
         <img
           alt="image"
-          src="/external/enterprise-fw-screen.svg"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image178"
         />
         <img
@@ -426,17 +434,17 @@ const Page3 = (props) => {
         />
         <img
           alt="image"
-          src="/external/discord-server-guide-1400w-200h-200h.png"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image184"
         />
         <img
           alt="image"
-          src="/external/discord-mods-1400w-200h-200h.png"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image185"
         />
         <img
           alt="image"
-          src="/external/discord-meeting-1400w-200h-200h.png"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image186"
         />
         <img
@@ -446,7 +454,7 @@ const Page3 = (props) => {
         />
         <img
           alt="image"
-          src="/external/discord-logo-white.svg"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image188"
         />
         <img
@@ -471,7 +479,7 @@ const Page3 = (props) => {
         />
         <img
           alt="image"
-          src="/external/chevron%20down.svg"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image193"
         />
         <img
@@ -481,12 +489,12 @@ const Page3 = (props) => {
         />
         <img
           alt="image"
-          src="/external/check%20in%20circle%20outlined.svg"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image195"
         />
         <img
           alt="image"
-          src="/external/check%20in%20circle%20outlined-light.svg"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image196"
         />
         <img
@@ -556,7 +564,7 @@ const Page3 = (props) => {
         />
         <img
           alt="image"
-          src="/external/burp%20suite%20shorts-1500w-200h-200h.jpg"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image210"
         />
         <img
@@ -571,7 +579,7 @@ const Page3 = (props) => {
         />
         <img
           alt="image"
-          src="/external/bsee-db-full.svg"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image213"
         />
         <img
@@ -586,7 +594,7 @@ const Page3 = (props) => {
         />
         <img
           alt="image"
-          src="/external/banner11.svg"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image216"
         />
         <img
@@ -596,127 +604,127 @@ const Page3 = (props) => {
         />
         <img
           alt="image"
-          src="/external/6b26-article-splitting-the-email-atom-article-1500w-200h-200h.png"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image218"
         />
         <img
           alt="image"
-          src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/38b57f6f-9f3e-4611-b049-8fdd89573c1b/762b707a-1d73-4576-8141-bbfd56099459?org_if_sml=1442&amp;force_format=original"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image219"
         />
         <img
           alt="image"
-          src="/external/twitterandxlogossvg14713-0pok-200h-200h-200h.png"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image220"
         />
         <img
           alt="image"
-          src="/external/tasksubmenu25003-fqk8-500w-500w-200h-200h.png"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image221"
         />
         <img
           alt="image"
-          src="/external/portswigger-logo.svg"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image222"
         />
         <img
           alt="image"
-          src="/external/logosportswigger7418-if361.svg"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image223"
         />
         <img
           alt="image"
-          src="/external/logosportswigger7418-if36.svg"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image224"
         />
         <img
           alt="image"
-          src="/external/image103425-mpks-1500w-200h-200h.png"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image225"
         />
         <img
           alt="image"
-          src="/external/image103425-mpks-1000w-200h-200h.png"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image226"
         />
         <img
           alt="image"
-          src="/external/frame51478119-imwa.svg"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image227"
         />
         <img
           alt="image"
-          src="/external/customers-choice-2.svg"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image228"
         />
         <img
           alt="image"
-          src="/external/component15533-2emj.svg"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image229"
         />
         <img
           alt="image"
-          src="/external/chevronrighti2354-ea9k.svg"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image230"
         />
         <img
           alt="image"
-          src="/external/chevronrighti2321-9hoy1.svg"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image231"
         />
         <img
           alt="image"
-          src="/external/chevronrighti175-32xa1.svg"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image232"
         />
         <img
           alt="image"
-          src="/external/chevronrighti175-32xa.svg"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image233"
         />
         <img
           alt="image"
-          src="/external/chevronright1151-t4lc.svg"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image234"
         />
         <img
           alt="image"
-          src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/38b57f6f-9f3e-4611-b049-8fdd89573c1b/7ad45dfa-d75f-4f76-9da8-9e39b755268e?org_if_sml=1543&amp;force_format=original"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image235"
         />
         <img
           alt="image"
-          src="/external/chevrondowni542-vuzo.svg"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image236"
         />
         <img
           alt="image"
-          src="/external/chevrondowni121-klbq.svg"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image237"
         />
         <img
           alt="image"
-          src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/38b57f6f-9f3e-4611-b049-8fdd89573c1b/c2bb4bed-d968-4360-a643-1b39c4c10bff?org_if_sml=1546&amp;force_format=original"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image238"
         />
         <img
           alt="image"
-          src="/external/checkincircleoutlined1216-agf1.svg"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image239"
         />
         <img
           alt="image"
-          src="/external/checkincircleoutlined1216-agf.svg"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image240"
         />
         <img
           alt="image"
-          src="/external/brandlogo4133-zt1r.svg"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image241"
         />
         <img
           alt="image"
-          src="/external/banner.svg"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image242"
         />
         <img
@@ -726,7 +734,7 @@ const Page3 = (props) => {
         />
         <img
           alt="image"
-          src="/external/test-the-modern-web-1200w-200h-200h.jpg"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image244"
         />
         <img
@@ -746,12 +754,12 @@ const Page3 = (props) => {
         />
         <img
           alt="image"
-          src="/external/x-logo.svg"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image248"
         />
         <img
           alt="image"
-          src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/38b57f6f-9f3e-4611-b049-8fdd89573c1b/df7dbd61-0db5-4fd9-b52d-14c86f664210?org_if_sml=11010&amp;force_format=original"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image249"
         />
         <img
@@ -761,7 +769,7 @@ const Page3 = (props) => {
         />
         <img
           alt="image"
-          src="/external/pro%20performance%20image-1500w-200h-200h.png"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image251"
         />
         <img
@@ -771,12 +779,12 @@ const Page3 = (props) => {
         />
         <img
           alt="image"
-          src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/38b57f6f-9f3e-4611-b049-8fdd89573c1b/4eb63476-b92e-4fcd-9b57-4114ef39eb96?org_if_sml=13003&amp;force_format=original"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image253"
         />
         <img
           alt="image"
-          src="/external/payload-1400w-200w-200w.png"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image254"
         />
         <img
@@ -786,7 +794,7 @@ const Page3 = (props) => {
         />
         <img
           alt="image"
-          src="/external/product-eg-img-400h-200h-200h.png"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image256"
         />
         <img
@@ -796,12 +804,12 @@ const Page3 = (props) => {
         />
         <img
           alt="image"
-          src="/external/tib3rius1-200h-200h-200h.png"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image258"
         />
         <img
           alt="image"
-          src="/external/table%20sorting%20times.svg"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image259"
         />
         <img
@@ -836,12 +844,12 @@ const Page3 = (props) => {
         />
         <img
           alt="image"
-          src="/external/yt-thumbnail-700h-200h-200h.png"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image266"
         />
         <img
           alt="image"
-          src="/external/amazon-com-grey.svg"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page3-image267"
         />
         <img

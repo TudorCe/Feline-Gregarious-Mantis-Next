@@ -45,7 +45,7 @@ const Page24 = (props) => {
         ></Banner12>
         <img
           alt="image"
-          src="/external/adygqnn_460svav11-1500w-1500w.gif"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page24-image10"
         />
         <Banner12
@@ -1800,7 +1800,7 @@ const Page24 = (props) => {
         <h1 className="page24-text367">Heading</h1>
         <img
           alt="image"
-          src="/external/fsdfseefseef-200w-200w.jpg"
+          src="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
           className="page24-image11"
         />
         <h1 className="page24-text368">Heading</h1>
